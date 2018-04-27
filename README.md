@@ -1,10 +1,10 @@
 # Webpack web component css
 
-This demo shows that is currently not possible to add in a Web Component a CSS file reference from webpack when using an extract css plugin and the html plugin.
+This demo shows that is currently not possible to add into a Web Component a CSS file reference imported by webpack when using an extract css and the html plugin.
 
-A imported css file is always added automatically to the body. For web components it is imported that the css file link reference is inside the shadow DOM.
+An imported css file is always added automatically to the body. For web components it is imported that the css file link reference is inside the shadow DOM.
 
-I didn't include any polyfill, so this demo will currently run only in Chrome.
+I didn't include a polyfill, so this demo will run only in Chrome.
 
 ## Result
 
