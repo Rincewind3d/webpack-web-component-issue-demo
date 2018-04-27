@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/app.css","webpack:///./src/myWebComponent.css"],"names":[],"mappings":"AAAA;AACA;AACA,C;ACFA;AACA;AACA,C","file":"app.css","sourcesContent":[".myColor {\n    color:red;\n}",".myColor {\n    color:blue;\n}"],"sourceRoot":""}

@@ -1,0 +1,18 @@
+# Intellij
+.idea/
+
+# VsCode
+.vscode/
+
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+#npm
+node_modules/
+
+package-lock.json
+yarn.lock
+yarn-error.log
