@@ -1,5 +1,5 @@
 import cssFileChunkUrl from './myWebComponent.css?getChunkUrl';
-//it is currently not possible to get myWebComponent.css of the css bundle get return the URL of the chunked css file
+//it is currently not possible to get myWebComponent.css out of the css bundle get return the URL of the chunked css file
 
 class MyComponent extends HTMLElement {
     constructor() {
